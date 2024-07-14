@@ -7,6 +7,5 @@ The note name and frequency are displayed in the serial monitor.
 I'm using an and I2s DAC along with an ESP32-S3-DevKitM-1U.
 
 # Video
-https://youtube.com/shorts/X4vE7kgokhs?si=nqGgdScXRx66loIC
 [![ESP32-S3_Tone_Generator](https://img.youtube.com/vi/X4vE7kgokhs/0.jpg)](https://www.youtube.com/watch?v=X4vE7kgokhs)
 
